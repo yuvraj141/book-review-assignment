@@ -7,7 +7,7 @@ export default function Banner(){
 			<h1 className="text-4xl font-bold leading-none sm:text-6xl">Books to freshen up your bookshelf
 			</h1>
 			
-			<button className="btn bg-[#23BE0A]">View The List</button>
+			<button className="mt-16 text-white px-7 py-5 rounded-xl border text-xl bg-[#23BE0A]">View The List</button>
 		</div>
 		<div className="flex items-center justify-center p-6 mt-8 lg:mt-0 h-72 sm:h-80 lg:h-96 xl:h-112 2xl:h-128">
 			<img src="src\assets\banner.png" alt="" className="object-contain h-72 sm:h-80 lg:h-96 xl:h-112 2xl:h-128" />

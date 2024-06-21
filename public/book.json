@@ -76,5 +76,44 @@
         "tags": ["Adventure", "Fantasy"],
         "publisher": "George Allen & Unwin",
         "yearOfPublishing": 1937
+    },
+    {
+        "bookId": "7",
+        "bookName": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "image": "https://i.ibb.co/tmxsnDp/bg6.png" ,
+        "review": "An enchanting prelude to the epic 'Lord of the Rings'.",
+        "totalPages": 310,
+        "rating": 4.8,
+        "category": "Fantasy",
+        "tags": ["Adventure", "Fantasy"],
+        "publisher": "George Allen & Unwin",
+        "yearOfPublishing": 1937
+    },
+    {
+        "bookId": "5",
+        "bookName": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "image": "https://i.ibb.co/KxwQXMY/bg5.jpg",
+        "review": "An enduring story of teenage angst and alienation.",
+        "totalPages": 214,
+        "rating": 4.3,
+        "category": "Fiction",
+        "tags": ["Coming-of-age", "Classic"],
+        "publisher": "Little, Brown and Company",
+        "yearOfPublishing": 1951
+    },
+    {
+        "bookId": "2",
+        "bookName": "1984",
+        "author": "George Orwell",
+        "image": "https://i.ibb.co/tJ81MFx/bg2.png",
+        "review": "A chilling depiction of a dystopian future.",
+        "totalPages": 328,
+        "rating": 4.8,
+        "category": "Science Fiction",
+        "tags": ["Dystopian", "Political"],
+        "publisher": "Secker & Warburg",
+        "yearOfPublishing": 1949
     }
 ]

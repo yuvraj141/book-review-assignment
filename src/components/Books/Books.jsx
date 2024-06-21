@@ -6,10 +6,9 @@ export default function Books({books}){
     console.log(books)
     return (
         <div>
-           <h1 className="text-center"> Books</h1>
-           <h1 className="text-center"> </h1>
-           <h1 className="text-center"> Books</h1>
-           <div className="grid grid-cols-3 gap-5 flex-1 flex-grow">
+           <h1 className="text-center text-4xl font-bold"> Books</h1>
+           
+           <div className="grid grid-cols-3 mr-6 container mx-auto gap-6  ">
             {
                 books.map(book=> <Book book={book}></Book>)
             }

@@ -4,8 +4,8 @@ import { NavLink } from "react-router-dom"
 export default function Nav(){
 
     return (
-        <div className="navbar border border-black bg-base-100 flex justify-between shadow-xl px-4 sm:px-8 fixed z-10">
-        <div className="flex-1 border border-black ">
+        <div className="navbar bg-base-100 flex justify-between shadow-xl px-4 sm:px-8 fixed z-10">
+        <div className="flex-1  ">
           <Link to="/" className="font-bold text-2xl gap-0 normal-case">Book Vibe</Link>
         </div>
         <div className="flex-1 gap-2">
